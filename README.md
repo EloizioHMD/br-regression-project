@@ -12,4 +12,4 @@ De forma bem simples, as etapas são:
 4. Aplicar um modelo
 5. Interpretar os resultados
 
-### [Link do notebook do projeto]()
+### [Link do notebook do projeto](https://github.com/EloizioHMD/br-regression-project/blob/master/regression-project-br.ipynb)
